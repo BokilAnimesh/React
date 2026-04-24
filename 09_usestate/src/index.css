@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font: 'helvetica neue';
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+#two{
+  margin: 80px;
+  padding: 5px;
+  background-color: #000;
+  width: fit-content;
+}
+
+#two button{
+  padding: 10px 20px;
+  margin: 5px;
+}
+
+#two h1{
+  padding: 10px 80px;
+  margin: 10px;
+  align-items: center;
+  background-color: gainsboro;
+  width: fit-content;
+  font-size: 100px ;
+  border-radius: 5px;
+}
